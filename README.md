@@ -1,5 +1,5 @@
 # codeta
-class i'm ta for
+class i'm ta for this time, writing in VI
 
 ## Smaller Header
 what does this look like
